@@ -1,0 +1,5 @@
+{
+  "name": "Smart Energy Command Center",
+  "description": "A high-performance industrial energy monitoring and management platform for university campuses, featuring real-time telemetry, load shedding, and critical control systems without any AI dependencies.",
+  "requestFramePermissions": []
+}
